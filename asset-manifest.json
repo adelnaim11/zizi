@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.9f9480ca.css",
-    "main.js": "./static/js/main.f3cf8347.js",
-    "static/js/453.cbcc4981.chunk.js": "./static/js/453.cbcc4981.chunk.js",
-    "static/media/Site-Valentine.png": "./static/media/Site-Valentine.a2a65b60fcd9466a6330.png",
-    "index.html": "./index.html",
-    "main.9f9480ca.css.map": "./static/css/main.9f9480ca.css.map",
-    "main.f3cf8347.js.map": "./static/js/main.f3cf8347.js.map",
-    "453.cbcc4981.chunk.js.map": "./static/js/453.cbcc4981.chunk.js.map"
+    "main.css": "/static/css/main.76013b5a.css",
+    "main.js": "/static/js/main.b4888d4b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "main.76013b5a.css.map": "/static/css/main.76013b5a.css.map",
+    "main.b4888d4b.js.map": "/static/js/main.b4888d4b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f9480ca.css",
-    "static/js/main.f3cf8347.js"
+    "static/css/main.76013b5a.css",
+    "static/js/main.b4888d4b.js"
   ]
 }
